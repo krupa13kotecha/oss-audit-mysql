@@ -9,8 +9,8 @@ Capstone Project | Open Source Software (OSS NGMC)
 
 | Field | Value |
 |---|---|
-| Name | Krishna Kumar Sahu |
-| Registration Number | 24MIM10150 |
+| Name | Krupa Kotecha |
+| Registration Number | 24BCE11262 |
 | Software Audited | MySQL (Community Edition — GPL v2) |
 
 ---
