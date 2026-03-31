@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 4: Log File Analyzer
-# Author: Krishna Kumar Sahu | Reg: 24MIM10150
+#  Author: Krupa Kotecha | Reg: 24BCE11262
 # Course: Open Source Software (OSS NGMC)
 # Purpose: Read a log file line-by-line, count keyword occurrences,
 #          and display a summary with the last 5 matching lines.
