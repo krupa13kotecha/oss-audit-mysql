@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 3: Disk and Permission Auditor
-# Author: Krishna Kumar Sahu | Reg: 24MIM10150
+# Author: Krupa Kotecha | Reg: 24BCE11262
 # Course: Open Source Software (OSS NGMC)
 # Purpose: Audit permissions and disk usage of key system directories,
 #          then specifically check MySQL-related directories.
